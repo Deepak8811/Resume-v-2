@@ -14,7 +14,18 @@ body {
   
   h2 {
     font-size: 1.5em;
+    letter-spacing: 0.2em;
     padding-bottom: 0.5em;
+    font-weight: 600;
+  }
+  h3{
+    letter-spacing: 0.09em;
+  }
+  b{
+    letter-spacing: 0.1em;
+  }
+  p{
+    letter-spacing: 0.1em;
   }
   
   main {
@@ -40,6 +51,7 @@ body {
   
   p {
     margin: 0.5em auto;
+    letter-spacing: 0.1em;
   }
   li {
     margin: 0.4em auto;
@@ -63,5 +75,5 @@ body {
   }
   a{
     text-decoration: none;
-    color: blue;
+    color: rgb(69, 69, 243);
   }
